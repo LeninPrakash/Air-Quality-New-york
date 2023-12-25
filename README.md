@@ -7,7 +7,7 @@ This project focuses on the analysis of air quality data obtained from [Data.gov
 ## Dataset
 
 - **Source:** [Air Quality Dataset](https://catalog.data.gov/dataset/air-quality)
-- **Accessed:** [Insert the date you accessed the dataset]
+
 
 ## Project Structure
 
