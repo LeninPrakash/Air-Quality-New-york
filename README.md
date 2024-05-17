@@ -72,7 +72,3 @@ scikit-learn
 ### License
 
 This project is licensed under the MIT License.
-
----
-
-You can update the README file in your GitHub repository with this information to provide a clear and detailed overview of your project. If you have any additional details or files to include, make sure to update them accordingly.
