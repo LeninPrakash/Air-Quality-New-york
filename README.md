@@ -1,5 +1,3 @@
-Here is the updated information for your GitHub repository based on the new code and project structure:
-
 ### Overview
 
 This project focuses on the analysis of air quality data obtained from Data.gov. The dataset includes various air quality indicators, and the goal is to predict the risk level based on different features.
